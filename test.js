@@ -5,5 +5,5 @@ function sayHi() {
 }
 
 
-
+console.log("now in branch b2")
 let result = sayHi()
